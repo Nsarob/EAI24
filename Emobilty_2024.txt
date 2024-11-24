@@ -1,0 +1,1670 @@
+﻿KABISA CHARGING OPTIONS
+
+
+Charging Basics
+Glossary: 
+* EVSE: Electric Vehicle Supply Equipment or also known as an EV charging station. 
+* Ports or Plugs: The plug on the end of the cable that connects the EV charger to the vehicle. Ports frequently refers to the number of plugs on a charging station.
+* Cable: The cable that connects the vehicle to the charging station. 
+* kW: A common electrical unit of power - 1,000 watts. 
+* kWh: A kilowatt-hour is the unit of energy over time. One kWh is equal to 1,000 watts of power for one hour of time. A microwave oven or a hair dryer use about one kW. But not typically for an hour at a time. This is the energy the vehicle uses instead of gasoline. 
+* Electrical Panel: Contains circuit breakers and distributes electricity throughout the building through electrical wiring. 
+* Conduit: Steel or aluminum tubing used to route and protect electrical wiring. 
+* EVs: A full Battery Electric or a Plug-in Hybrid Electric Vehicle driven by an electric motor with power from the battery. The battery is primarily charged by a charging station. 
+* BEVs: Battery Electric Vehicles that are only powered by electricity. (All Kabisa vehicles are BEVs)
+* PHEVs: Plug-in Hybrid Electric Vehicles with both a gasoline engine and a large battery that can be plugged in to recharge
+* Range or All Electric Range (AER): The distance that an EV can travel on a full charge.
+
+
+CHARGING SPEEDS:
+Level 1: up to 3.5kW
+Portable AC charger 
+Plug into normal AC outlet
+Perfect to charge overnight
+
+
+Level 2: up to 22kW
+AC charging
+For home or businesses that 
+need faster charging
+
+
+Level 3: Over 22kW
+DC charging
+For fast charging stationsNeeds special grid upgrade
+
+
+
+
+CHARGING STANDARDS:
+* All of Kabisa’s cars and most EVs in Rwanda use the GBT standard
+* Stand alone adapters and adapting cables are available to bridge between the standards
+
+
+China;
+AC(slow): GBT
+DC(fast): GBT
+
+
+
+
+EU;
+AC(slow): Type2
+DC(fast): CCS2
+
+
+Japan;
+AC(slow): Type1
+DC(fast): CHAdeMO
+
+
+N. America;
+AC(slow): Type1
+DC(fast): CCS1
+
+
+Tesla (US): NACS
+
+
+
+
+ ALTERNATING CURRENT 
+
+
+AC CHARGERS
+
+
+AC chargers are most commonly used for home and business charging. The typical maximum charging power is 7kW single phase (or 22kW for three phase).
+
+
+Portable Charger (Level 1) with Outlet Est. charging speed 10-60 km per hour
+
+
+* Make: Kabisa
+* Power: up to 3.6kW
+* Gun Standard: GB/T or Type2
+* Description: Portable AC charger with current limiting 
+* function, with max charging current of 16A. 
+* An outdoor schuko outlet is installed on 
+* premise alongside the charger. 
+* Unit Cost: RWF 300,000 (excl. install cost)
+
+
+
+
+
+
+Simple AC Charger (Level 2) Est. charging speed 40-120 km per hour
+
+
+* Make: Whitelabel
+* Power: 7kW single phase
+* Gun Standard: GB/T or Type2, cable attached
+* Description: Level 2 AC charger for faster charging of 
+* electric vehicles. The unit is not connected 
+* to the internet
+* Unit Cost: RWF 700,000 (excl. install cost)
+
+
+Internet Connected AC Charger (Level 2) Est. charging speed 40-120 km per hour
+
+
+* Make: Wallbox
+* Model: Copper SB
+* Power: 7kW single phase and 22kW three phase
+* Outlet Standard: Type 2, no cable attached
+* Description: Internet and app connected EV charger with 
+* a built in energy meter for remote 
+* monitoring and control. A built in RFID can 
+* be used for authorisation control.
+* Unit Cost: RWF 1,500,000 (excl. install cost)
+
+
+Notice that the actual charging power might be limited by the ‘onboard charger’ of your vehicle. Most electric vehicles only support single phase AC 
+charging. Prices provided are indicative only and do not include additional wiring, protection, and installation costs.
+
+
+DC CHARGERS
+Electric vehicle fast chargers use DC (direct current) to charge the vehicle’s battery. 
+DC chargers are modular in design and can vary from 10kW to up to 150kW.
+
+
+DC Fast Charger (Level 3) Wall Mount Est. charging speed up to 250 km per hour
+
+
+* Model: DC Fast-Charger wall mount
+* Type: DC Fast-Charger
+* Power: up to 40kW
+* Gun Standard: Single or dual gun, GB/T or CC2
+* Description: Wall mounted DC charger provides up to 
+* 40kW in charging power. The unit supports 
+* the OCPP standard and can be remotely 
+* monitored using a backend system. 
+* Unit Price: Starting RWF 4,500,000 (excl. install cost)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DC Fast Charger (Level 3) Pedestal Mount Est. charging speed up to 900 km per hour
+
+
+* Model: DC Charger in pedestal
+* Type: DC Fast-Charger
+* Power: Up to 150kW
+* Gun Standard: Single or dual gun, GB/T or CC2
+* Description: Pedestal mounted DC charger provides up 
+* to 150kW in charging power. A standard size 
+* is 60kW. The unit supports the OCPP 
+* standard and can be remotely monitored 
+* using a backend system.
+* Unit Price: Starting at RWF 8,500,000 (excl. install cost)
+
+
+Notice that the actual charging power will be controlled and limited by the vehicle battery controller. 
+Look at your vehicle speciﬁcation for the maximum DC charging speed. DC charger installations are often limited by power limitations on the distribution network or transformer. Upgrades to the infrastructure might be needed. Kabisa will advice on the available charging speed at a site inspection and available power audit. 
+Prices provided are indicative only and do not include additional wiring, protection, and installation costs.
+
+
+ CHARGING ACCESSORIES
+
+
+Portable Charger (Level 1) Est. charging speed 10-60 km per hour
+
+
+Make: Kabisa
+Power: up to 3.6kW
+Gun Standard: GB/T or Type2
+Description: Portable AC charger with current limiting function, with max charging current of 16A.
+Unit Cost: RWF 200,000
+
+
+
+
+
+
+
+
+
+
+Charging Cable (Customizable Ports)
+
+
+Make: Kabisa
+Type: Charging Cable
+Standard: Type 2 to Type 2, OR GB/T to Type 2 
+Description: 5 meter cable for Charging
+Unit Cost: RWF 200,000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Charging Pedestal
+
+
+Make: Kabisa
+Dimensions: 1300 x 250 x 250
+Description: Metal pedestal that is mounted on a 
+concrete foundation for use at public 
+parking space. AC chargers and charging 
+sockets can be mounted on the pedestal 
+while protection circuitry is mounted inside 
+the pedestal.
+Unit Cost: RWF 500,000 (excl. install cost)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prices provided are indicative only and do not include additional wiring, protection, and installation costs.
+
+
+Charging Network
+
+
+Kabisa clients and cars get full access to the Kabisa Charging Network in Rwanda. 
+Would you like to be a part of the network?
+
+
+Below is a list of already Installed charging station  and ones coming soon
+
+
+Kabisa Network (already Installed)
+	Type
+
+
+	Power (kW)
+	Kigali - Norrsken 1 + 2
+	AC charger L2
+	22
+	Kayonza - Imigongo ArtCafe 1
+	AC charger L2
+	7.36
+	Muhanga - Staﬀord 1
+	AC charger L2
+	7.36
+	Kinigi, Dian Fossey Campus
+	AC charger L2
+	7.36
+	Gisenyi - SP 1
+	AC charger L2
+	7.36
+	Musanze - SP 1
+	AC charger L2
+	7.36
+	
+
+Kabisa Garage 1 - 3
+	AC charger L2
+	7.36
+	Nyirangarama SP 1
+	AC charger L2
+	7.36
+	Nyanza - Staﬀord 1
+	AC charger L2
+	7.36
+	Kimihurura - Tugende 1
+	AC charger L2
+	7.36
+	Kigali - Mundi - Center 1
+	AC charger 
+	7.36
+	Rungunga - SP 1
+	AC charger L3
+	40
+	
+
+
+
+
+
+
+
+
+
+Kabisa Network (coming soon)
+* Akagera Park - Akagera Game Lodge
+* Akagera Park - Akagera Rhino Lodge
+* Akagera Park - Ruzizi Tented Lodge
+* Cyangugu - Mantis Kivu Marina Bay Hotel
+* Gashora - RICA Campus
+* Huye - Chinese Restaurant
+* Katuna - Katuna Border Post
+* Kibuye - Cleo Lake Kivu Hotel
+* Kirehe - Rubis Kirehe Service Station
+* Nyagatare - Mantis Epic Hotel
+* Nyanza - Staﬀord Coﬀee
+* Nyirangarama - Sina Gerard
+* Nyungwe National Forest - Kitabi Center
+* Rubavu - Migano Cafe
+* Volcano National Park - Ndaza Escap
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+KABISA Electric Vehicle Brochure 
+
+
+ ABOUT KABISA
+
+
+Kabisa is an electric vehicle distributor and EV ecosystem company in Rwanda. Kabisa has the 
+vision to make electric vehicle adoption and ownership in Rwanda as easy as possible. Besides 
+selling or leasing the electric vehicles from the world most reputable EV manufacturers, Kabisa 
+is also operating a nationwide EV charging network and runs an electric vehicle maintenance 
+garage in Kigali.
+
+
+Kabisa is the smart choice for any ﬂeet operator looking to reduce total cost of ownership while 
+shifting to a modern, green ﬂeet. Kabisa’s vehicles come by default with charging infrastructure 
+and a fully integrated ﬂeet management system.
+
+
+WHY GO FULL ELECTRIC?
+* 90% Reduction in fuel cost
+* Cost-eﬀective, Instant Return on Investment
+* 80% Reduction in direct maintenance costs and less vehicle downtime
+* 100% Carbon emission reductions while driving comfortably and silent
+
+
+
+
+ KABISA SERVICES
+
+
+BUSINESS & HOME CHARGING
+* Free charger installation at your home or business alongside each car
+* Selection of slow and fast chargers available including professional installation services. 
+
+
+CHARGING NETWORK
+
+
+All Kabisa customers have access to the Kabisa charging network (see map or Google Maps)
+
+
+KABISA EV GARAGE
+
+
+● Kabisa is operating an EV and Hybrid vehicle garage in Kigali. (Google Maps)
+● The garage is equipped with special battery diagnostics and maintenance tools.
+
+
+ FLEET
+
+
+* COMMUTER: 120 / 170 km
+* JEP: 305 km
+* VOYAGER: 305 km
+* PRO: 320 / 410 km
+* LUX: 520 / 605 km
+* PICKUP: 410 / 550 km
+* VAN: 280 km
+* CARGO (3.5T):250 km
+* LIGHT DUTY (5.5 & 8T): 250 km
+
+
+DESCRIPTION OF VEHICLE MODELS
+
+
+1. GO: WULING MINI EV
+* Make/Model: Wuling MIni EV
+* Trim: Macaron 170km, Macaron 215km
+* NEDC Range: 170km, 
+* Battery Size: 13.4 kWh, 17.3 kWh
+* Motor: Single Motor, Rear Wheel Drive
+* Horsepower/ Torque: 27 hp (20 kW)/ 85Nm, 41 hp (30kW)/ 92Nm
+* Top Speed: 100km/h
+* Max Charging: AC 3.3kW ( 6.8 hrs), AC 3.3kW (7h)/ DC 16kW (1h)
+* Consumption (kWh /100km): 8.0, 9.0
+* Cost 100km (94 RWF /kWh): 752, 846
+* Body Arrangement: 3-door 4-seat, Foldable back seats
+* L×W×H(mm): 2917x1493x1621
+* Curb Weight: 715 kg, 777 kg
+* Luggage Volume/ Max Load: 734 L with folded seats/ 380kg, or 734 L with folded seats/ 318kg
+* Tires: 145/70 R12
+* Parking Camera: Sensor, Camera
+* Safety Features: ABS, Brake Assist, Transaction Control, Stability Control, Tire Pressure 
+* Monitoring, Seat Belts, Front Airbags
+* Features: Hill assist, 8 inch touch screen
+
+
+
+
+
+
+2. JEP: BAOJUN JEP
+* Make/Model: Baojun Yep
+* Trim: Basic Version and Pro Version
+* NEDC Range: 304 km
+* Battery Size: 28.1 kWh
+* Motor: Single Motor - Rear Wheel Drive
+* Horsepower / Torque (kW): 68 hp (49 kW) 310 N - M
+* Top Speed: 100 km/h
+* Charging Speed: DC 30 kW (1 hr) / AC 6.6 kW (5 hrs)
+* Consumption (kWh /100km): 9.3 kWh
+* Cost 100km (94 RWF /kWh): 872 Rwanda Franc(RWF)
+* Body Arrangement: 4 seats, 3 doors, foldable back seats
+* L×W×H(mm) // Ground Clearance: 3381x1685x1721 // 150mm
+* Weight: 1,006 kg
+* Luggage Volume: 30 L
+* Tires: 195/60 R15
+* Safety Features: Airbags, ABS anti-lock brake, Traction Control, Tire Pressure Monitoring, ISO
+* Additional Features: Touch LCD Screen,Rear Camera
+* Touch LCD Screen, 360deg Cameras, Adaptive Cruise Control, Parking Assistance, Lane Departure Warning, Front and Rear, Collision Warning, Lane Keeping, Assistance, Active, Braking and Traﬃc, Sign Recognition
+
+
+
+
+3. Voyager, 305 KM, 30.08 kWh
+* Make/Model: Voyager-BYD Seagull
+* Trim: Basic Version and Pro Version
+* NEDC Range: 305 km
+* Battery Size: 30.08 kWh
+* Motor: Single Motor - Rear Wheel Drive
+* Horsepower / Torque (kW): 74hp (55 kW) 135 N - M
+* Top Speed: 130 km/h
+* Charging Speed: DC 30 kW (0.5 hr) / AC 6.6 kW (5 hrs)
+* Consumption (kWh /100km): 9.3 kWh
+* Cost 100km (94 RWF /kWh): 872 RWF
+* Body Arrangement: 4 seats, 5 doors, foldable back seats
+* L×W×H(mm) // Ground Clearance: 3780x1715x1540 // 155mm
+* Weight: 1,090 kg
+* Luggage Volume: 30 L
+* Tires: 195/60 R15
+* Safety Features: Airbags, ABS anti-lock brake, Electronic Parking Brake System, Tire Pressure Monitoring, ISO
+* Additional Features: Touch LCD Screen, Adaptive Cruise Control, Parking Assistant, Lane Departure Warning, Front and Rear,Collision Warning, Active Braking and Traﬃc Sign Recognition
+
+
+4. PRO: BYD YUAN PRO, 320/410 KM, 38/48 kWh
+* Make/Model: BYD Yuan Pro
+* Trim: Basic, Extended Range, and Premium
+* NEDC Range: 320 km, 401 km, 401 km
+* Battery Size: 38 kWh, 48 kWh, 48 kWh
+* Motor: Single Motor - Rear Wheel Drive
+* Horsepower / Torque (kW): 68 hp (70 kW) 180 N - M
+* Top Speed (km/h): 150 km/h
+* Max Charging: for Basic trim(DC 45 kW (0.5 hr) / AC 6.6 
+* kW (5 hrs)), for Basic Extended Range and Premium(DC 60kW (0.5 hr) / AC 6.6 kW (5 hrs))
+* Consumption (kWh /100km): 11.9, 12.0
+* Cost 100km (94 RWF /kWh): 1128 RWF
+* Body Arrangement: 5 seats, 5 doors
+* L×W×H (mm): 4375x1785x1680
+* Ground Clearance (mm): 150
+* Curb Weight: ~1,300, 1510, and 1510
+* Tires: 205/60 R16
+* Safety Features: Driver & Passenger Airbags, ABS anti-lock brake, Traction Control, Tire Pressure Monitoring, ISO, Rear Parking Radar
+* Additional Features: for Basic Model(Rear View Camera, USB phone charging, 2 speakers). For Basic Extended(Rear View Camera, USB phone charging4 speakers). For Premium model(Panoramic Sunroof, Side Airbags, 360 deg Camera, Wireless phone charging, Front parking, radar, Car Air Puriﬁer, 6 speakers, Vehicle 2 Load Capability, Electric Folding Mirrors)
+
+
+
+
+5. PICK UP: RADAR R6
+* Make/Model: Geely Radar R6
+* NEDC Range: 410 / 505 KM
+* Battery Size: 63 kWh / 86 kWh
+* Motor: Single Motor - Rear Wheel Drive\
+* Horsepower / Torque (kW): 272 hp (200 kW) 384 N - M
+* Top Speed: 185 km/hr
+* Max Charging: DC 120 kW (30 mins) / AC 3.3 kW (19 hrs)
+* Charge Cost (@94rwf/kWh): 6,016 RWF / 8,084 RWF
+* Consumption: 14.1 kWh / 100km / (est. 1,325 RWF) or 15.6 kWh/100km/ (est 1,467 RWF)
+* Body Arrangement: 5-door 5-seat \ Foldable back seats
+* L×W×H(mm): 5260x1900x1830
+* Weight: 2840 kg
+* Luggage Volume:  225/65 17L
+* Tires: 225/65 17L
+* Display: TFT screen
+* Parking Camera: camera
+* Safety Features: Airbags, ABS anti-lock brake, Traction Control, Tire Pressure Monitoring, ISO
+* Add on: lane departure warning, front and rear collision warning, lane keeping assistance, 
+* active braking and traﬃc sign recognition
+
+
+
+
+6. LUX: BYD SONG PLUS EV, 520/605 KM
+* Make/Model: BYD Song Plus
+* Trim: Luxury, Premium, Flagship Plus
+* NEDC Range (km): 520 km, 520 km, 602 km
+* Battery Size (kWh): 71.8 kWh, 71.8 kWh, 90.3 kWh
+* Motor: Single Motor - Front Wheel Drive
+* Motor Horsepower: 204 hp, 204 hp, 218 hp
+* Top Speed (km/h): 175 km/hr
+* Max Charging: DC 90 kW (30 mins) / AC 7 kW (10.2 hrs), DC 90 kW (30 mins) / AC 7 kW (10.2 hrs), DC 140 kW (28 mins) / AC 7 kW (12.4 hrs)
+* Consumption (kWh /100km): 13.8 kWh, 13.8 kWh, 15.1 kWh
+* Cost 100km (94 RWF/kWh): 1311 RWF, 1311 RWF, 1434 RWF
+* Body Arrangement: 5-door 5-seat \ Foldable back seats
+* L×W×H (mm): 4705x1890x1680
+* Weight: 1920 kg, 1920 kg, 2050 kg
+* Luggage Volume: 574 L
+* Tires: 245/45 R19
+* Safety Features: Airbags, Child Seat Interface, ABS anti-lock brake, Traction Control, Tire Pressure Monitoring, ISO
+* Additional Features: Panoramic Sunroof, Rear Camera, 12.8 inch touch screen,6 speakers | Panoramic Sunroof, Sourrund Cameras, 12.8 inch Touch Screen, 9 Speakers, Soundproof Windshield|  Panoramic Sunroof, 15.6 inch Touch Screen, 10 Speakers, Soundproof Windshield, Car Air Puriﬁer, Lane Departure Warning, Lane Keep Assistant, Active Breaking, Front & Rear Collision Warning
+
+
+------------------------------------------------------------------------------------------------------------------------------
+BasiGO startup
+
+
+Creating the future of clean, electric public transport in Africa
+Every day, over 1 Million buses travel Africa’s roads, providing the most affordable and accessible mode of transport. But this diesel-powered fleet emits 1 Gigatonne of CO2 each year. Their emissions choke Africa’s cities with air pollution. And their operation depends on fuel imported from overseas.
+Africa is home to the world’s fastest growing population and economy. To keep pace, Africa needs a sustainable mobility revolution, powered by the continent’s abundant renewable energy. BasiGo is on a mission to make Africa the global leader in affordable, low-carbon public transport
+
+
+Our Impact
+41 buses in operation, 2,651,990 electric kms driven, and 1179.2 T CO2 emissions avoided
+521,259 litres of Diesel avoided, 4,385,733 passengers carried
+
+
+A Complete Electrification Solution
+
+
+Electric Buses Built for Africa:
+State of the art electric bus technology from leading OEMs, designed and built to meet the needs of African transport.
+
+
+Pay-As-You-Drive Financing:
+Tech-enabled leasing model that eliminates the high upfront cost of an Electric Bus, improving bus owner returns.
+Charging & Service Network:
+Access to a convenient and reliable charging & service network making E-Bus ownership simple.
+
+
+Servicing both Kenya and Rwanda
+
+
+In The News
+Oct 23, 2024
+BasiGo Secures $42M in Funding to Scale Public Transport Electrification in Sub-Saharan Africa
+Oct 23, 2024
+Oct 23, 2024
+Sep 26, 2024
+BasiGo Named Best Green Startup at The Global Startup Awards
+Sep 26, 2024
+Sep 26, 2024
+Aug 15, 2024
+BasiGo’s electric bus initiative gets Ksh.1.B U.S. boost, aims for 1,000 buses by 2025
+Aug 15, 2024
+Aug 15, 2024
+Stay Connected.
+
+
+
+
+Kenya — BasiGO
+Electrifying Kenya
+Powering Kenya’s Transport Future
+Matatus are the heart of Kenya’s transport ecosystem. But as Kenya’s cities continue to grow, diesel-powered matatus pose a growing challenge.  Rising fuel prices, toxic air pollution, and the reality of climate change demand a new vision for public transport. BasiGo Electric Buses are creating that vision.
+Our state-of-the-art, 100% Electric buses are designed for Kenya, built in Kenya, and powered by Kenya’s abundant renewable energy. BasiGo Electric Buses give owners freedom from rising fuel prices and better reliability. For passengers, BasiGo E-Buses offer a radically new bus experience, one that is quiet, connected, and clean.
+BasiGo is powering a new future for public transport in Kenya, one that is more comfortable for passengers, more profitable for bus owners, and cleaner for the planet.
+Our Partners
+Bus Operators
+Operating Partners
+Financing Partners
+Designed for Kenya
+Built in Kenya
+
+
+The E9 Kubwa, 100% ELECTRIC
+Clean, Quiet, Comfort
+A quiet commute on leather seats, with WiFi, & USB charging
+All Day Range
+400 km per day of daily driving with < 2 hour recharge time
+Lower Cost
+More affordable for operators to add to their fleet and to operate.
+The Electric Bus Designed for Kenya, Built in Kenya
+The E9 Kubwa Electric Bus from BasiGo is designed for Kenya, built in Kenya, and powered by Kenya’s 90% renewable energy. It is tailor-made for PSV operations in Nairobi.
+With a recharge time of less than 2 hours, the E9 Kubwa can cover up to 400km of daily operation. With capacity for up to 54 passengers, the E9 Kubwa introduces a new level of comfort, connectivity, and safety for Nairobi commuters: Quiet journeys on premium leather seats, WiFi and USB charging, and CCTV cameras on a bus meeting the highest international safety standards.
+Welcome to the future of public transport in Kenya – welcome aboard the E9 Kubwa.
+Features
+Convenient Fast Charging
+E9 Kubwa is powered by a 210kWh LFP battery from CATL, the global leader in EV batteries. This state-of-the-art battery is certified to the highest international safety standards and backed by an 8-year / 600,000km warranty.
+
+
+World Class Battery
+The E9 Kubwa recharges in less than 2 hours at
+BasiGo Depots located directly along  operator routes.
+Our depots are powered by dedicated power infrastructure to ensure power outages never impact bus operations.
+Quiet, Connected Comfort
+E9 passengers enjoy the
+quiet, emissions-free comfort of electric while traveling in a modern cabin
+with
+spacious, high-back leather seats,
+high-speed WiFi connectivity and USB charging at every seat.
+Real Time Monitoring
+Operators can
+monitor the location and status of their E9 Kubwa in real-time
+through the BasiGo’s PAYD software. PAYD also provides comprehensive technical & operational data so operators can optimize bus performance.
+New Standard
+of Safety
+The E9 Kubwa puts
+passenger safety above all else
+. Each seat seat features safety belts, stop buttons, and overhead handrails. The E9 also comes wi
+th 5 CCTV Cameras
+that fully track all activity inside and outside the bus.
+Guaranteed Uptime
+BasiGo’s expert trained and fully equipped service team
+guarantees 90% uptime for the
+E9 Kubwa each month.
+BasiGo service works at night as buses charge so operators know their E-bus will be more reliable than a diesel bus.
+Manufactured in Kenya
+BasiGo is proud that every E9 Kubwa is #BuiltInKenya.  The E9 Kubwa is built by our partners, Kenya Vehicle Manufacturers. Together, we have built Kenya’s first dedicated Electric Bus assembly line.  We are proud to be establishing Kenya as a leader in the manufacturing of next generation electric vehicles, and to be creating a new green manufacturing industry in East Africa.
+
+
+
+
+KENYA’S  LEADING DC FAST CHARGE NETWORK
+Energizing Tomorrow’s Commute
+For Electric Buses to function in Nairobi, drivers rely on reliable charging that is easy to access. BasiGo has deployed Kenya’s first DC Fast Charge network for electric buses.  Our charging depots are located conveniently along bus routes and have dedicated connections to Kenya Power, ensuring BasiGo E-buses are always charged and ready for operation. Our CCS-2 chargers can recharge an electric bus in 2 hours.  They can also offer quick charging for any compatible passenger car or truck.
+Powered by Kenya’s 90% renewable energy, BasiGo’s charging network is ready to make Kenya a world leader in sustainable transport!
+Our Charging Stations
+Charger Specifications
+Guaranteed Uptime with
+BasiGo Service
+Every BasiGo E-Bus comes with comprehensive service and maintenance provided by BasiGo.  With a complete warehouse of spare parts and expert staff inspecting and maintaining buses at night as they charge, BasiGo guarantees operators 90% uptime for their bus every month. Through Pay-As-You-Drive, operators receive:
+
+
+Electrifying
+Rwanda
+A Clean Solution to Public Transport Needs
+Rwanda is facing an urgent need to increase public transport availability, but the surging cost of diesel fuel has made it challenging for operators to expand their fleets.  BasiGo Electric Buses are the solving this problem!
+In December 2023, BasiGo introduced bus operators and passengers to the R10 Rumuri, Kigali’s first 100% Electric Bus. Instead of expensive, imported diesel fuel, the R10 Rumuri is powered by renewable energy generated in Rwanda. BasiGo’s Pay-As-You-Drive lease model lets operators add more buses to their fleet and ensures those buses operate profitably.
+Rwanda intends to be one of the first countries in Africa to transition to low-carbon transport.  We are proud to that BasiGo electric buses are helping pave the way to that future.
+Our Partners
+Bus Operators
+Operating Partners
+Financing Partners
+
+
+Pay-As-You-Drive
+Careers
+About Us
+R10 Rumuri — BasiGO
+The
+R10 Rumuri
+100% ELECTRIC
+The simplicity of an E-Bus means more uptime and less hassle for operators.
+More Reliable
+All Day Range
+300km of range enables all day operation on a single charge.
+Low upfront deposit plus a low service fee makes the R10 a simple addition to a fleet.
+Lower Cost
+The Clean Solution for Kigali Commuters
+The R10 Rumuri from BasiGo is the ideal solution for Kigali’s public transport market. Powered by Rwanda’s clean electricity, the R10 Electric Bus is lower cost to add to your fleet and lower cost to run, helping to ensure that bus operators are profitable from day one and free from the uncertainty of fuel cost.
+With capacity for up to 70 passengers and a 300km of driving range, the R10 can operate a full day without charge. The bus’s 200kW motor is specifically designed to handle Rwanda’s hilly terrain with ease.  The R10 Electric Bus has simpler mechanics and fewer moving parts, reducing maintenance to every 15,000km.  So the R10 is ready to work more days every month.
+It is a new era for clean, reliable public transport in Rwanda. Welcome aboard the R10 Rumuri Electric Bus!
+Features
+World Class Battery
+R10 is powered by 280kWh battery from CATL, the global leader in EV batteries. This
+state-of-the-art battery
+is certified to the highest international safety standards and backed by an 8-year / 600,000km warranty.
+Enhanced Driver Experience
+A shock-absorbing driver's seat reduces fatigue and enhances safety. The
+smart digital dashboard lets drivers  monitor all systems
+, including complete visibility inside and outside the bus through 5 CCTV cameras.
+A Tap-and-Go Electric Bus
+R10 passengers board with the familiar convenience of
+Tap-and-Go payment systems
+. With the same tap card used for other Kigali buses, passengers access the quiet, connected comfort of R10 with WiFi & USB charging.
+Digitally Powered Bus
+With the R10,
+operators can monitor the location and status of their bus at all times
+though BasiGo's PAYD software.  PAYD also provides detailed data on the technical and operational performance of the bus every day.
+Convenient, Reliable Charging
+The R10 can be
+fully charged in 2 hours
+at BasiGo charging stations located next to bus operating routes. Through Pay-As-You-Drive, operators can trust in free and easy charging at BasiGo stations with high reliability power from REG.
+Guaranteed Uptime
+BasiGo’s expert trained and fully equipped service team operation
+guarantees 90% uptime every month
+.  E-buses are serviced at night as they charge, ensuring that the E-Bus will be more available than a diesel bus.
+
+
+OUR CHARGING DEPOTS
+Energizing Tomorrow’s Commute
+For electric buses to work for Kigali bus operators, they must have access to convenient and reliable charging directly along their routes. BasiGo is deploying Rwanda’s first DC Fast Charge network dedicated for electric buses.  Our high-power chargers are located minutes from bus routes and can recharge our electric buses in less than 2 hours. BasiGo charging depots are powered by dedicated infrastructure from REG allowing BasiGo to offer our customers guaranteed charging 24/7. With BasiGo, drivers can use an electric bus with complete peace of mind and no change to daily operation.
+Service & Maintenance Included
+BasiGo Electric Buses are supported by a comprehensive service and maintenance provided by BasiGo’s  expert service team. BasiGo’s service depot in Rwandex carries a full inventory of spare parts for the R10. BasiGo inspects and maintains E-buses each night as they charge, minimizing downtime for operators. With Pay-As-You-Drive, bus operators benefit from:
+Free maintenance every 15,000 km
+Nightly inspection and Cleaning
+Roadside assistance
+Comprehensive Vehicle Insurance
+
+
+Just Pay-As-You-Drive…
+Buying a diesel bus today is risky investment. Owners make a large down-payment and then service a bank loan over many years.  If anything happens during the loan period (i.e. rising fuel costs, higher interest rates, a pandemic!), owners can be left with nothing!
+BasiGo's Pay-As-You-Drive lease changes the game for bus owners. With Pay-As-You-Drive, owners can acquire an E-Bus for a minimal upfront cost.  Owners then pay an affordable Pay-As-You-Drive fee which includes all charging and maintenance services provided by BasiGo.
+Since Pay-As-You-Drive is mileage-based, owners only pay if their Electric Bus is operating.  With Pay-As-You-Drive, owning an electric bus is as Easy as Driving.
+Owning an electric bus is as easy as driving!
+Benefits of Pay-As-You-Drive
+Lower Costs
+Owners pay a lower deposit than a diesel bus and then an
+affordable, mileage-based fee
+to get all the benefits of a BasiGo E-Bus. With Pay-As-You-Drive, owners can break even on their deposit in less than 12 months!
+All Inclusive
+Pay-As-You-Drive lease makes life simple for owners by
+including charging, service, cleaning, roadside assistance, and vehicle insurance.
+With Pay-as-you-Drive, there are no more fuel and service payments,f just a simple fee based on the distance driven.
+Full Transparency
+With BasiGo’s PAYD software, owners and financiers  have full visibility of their E-bus fleet including
+real-time tracking, bus performance, service records, and lease payments
+. PAYD provides a new level of control and transparency in a bus investment.
+Simplifying Bus Ownership
+With diesel buses, owners are directly responsible for fuel, service, repairs, and management of their fleet.
+Pay-As-You-Drive eliminates this burden. When a bus owner signs up for a Pay-As-You-Drive E-Bus, BasiGo provides all charging, all scheduled maintenance, and roadside assistance free of charge.  Through the PAYD portal, BasiGo also provides owners with real-time monitoring and comprehensive analytics of every electric bus in their fleet.
+BasiGo is bringing more than just electric buses to Africa’s bus operators. With Pay-As-You-Drive, bus owners get transparency, simplicity, and peace of mind from their bus operation.
+Access to a Charging Network
+The #1 concern bus operators have when switching to electric is charging.  With Pay-As-You-Drive, operators get free access to BasiGo’s growing network of Electric Bus charging depots located directly along bus routes across the city.  BasiGo manages all aspects of charging infrastructure deployment and management, including the cost of power. Through Pay-As-You-Drive, operators know their buses will be charged every night from a charging network that is convenient, reliable, and guaranteed.
+Maximizing Uptime
+With Pay-As-You-Drive, operators have peace of mind knowing that service and maintenance for their E-Bus is included for free.  BasiGo’s expert service operation guarantees 90% uptime for our E-buses, and also offers free roadside assistance and comprehensive vehicle insurance. Most importantly, since owners pay BasiGo based on kilometers driven, BasiGo is invested alongside bus operators in keeping the Electric Bus on the road in good condition.
+Want to learn more?
+
+
+
+
+Just Pay-As-You-Drive…
+Buying a diesel bus today is risky investment. Owners make a large down-payment and then service a bank loan over many years.  If anything happens during the loan period (i.e. rising fuel costs, higher interest rates, a pandemic!), owners can be left with nothing!
+BasiGo's Pay-As-You-Drive lease changes the game for bus owners. With Pay-As-You-Drive, owners can acquire an E-Bus for a minimal upfront cost.  Owners then pay an affordable Pay-As-You-Drive fee which includes all charging and maintenance services provided by BasiGo.
+Since Pay-As-You-Drive is mileage-based, owners only pay if their Electric Bus is operating.  With Pay-As-You-Drive, owning an electric bus is as Easy as Driving.
+Owning an electric bus is as easy as driving!
+Benefits of Pay-As-You-Drive
+Lower Costs
+Owners pay a lower deposit than a diesel bus and then an
+affordable, mileage-based fee
+to get all the benefits of a BasiGo E-Bus. With Pay-As-You-Drive, owners can break even on their deposit in less than 12 months!
+All Inclusive
+Pay-As-You-Drive lease makes life simple for owners by
+including charging, service, cleaning, roadside assistance, and vehicle insurance.
+With Pay-as-you-Drive, there are no more fuel and service payments,f just a simple fee based on the distance driven.
+Full Transparency
+With BasiGo’s PAYD software, owners and financiers  have full visibility of their E-bus fleet including
+real-time tracking, bus performance, service records, and lease payments
+. PAYD provides a new level of control and transparency in a bus investment.
+Simplifying Bus Ownership
+With diesel buses, owners are directly responsible for fuel, service, repairs, and management of their fleet.
+Pay-As-You-Drive eliminates this burden. When a bus owner signs up for a Pay-As-You-Drive E-Bus, BasiGo provides all charging, all scheduled maintenance, and roadside assistance free of charge.  Through the PAYD portal, BasiGo also provides owners with real-time monitoring and comprehensive analytics of every electric bus in their fleet.
+BasiGo is bringing more than just electric buses to Africa’s bus operators. With Pay-As-You-Drive, bus owners get transparency, simplicity, and peace of mind from their bus operation.
+Access to a Charging Network
+The #1 concern bus operators have when switching to electric is charging.  With Pay-As-You-Drive, operators get free access to BasiGo’s growing network of Electric Bus charging depots located directly along bus routes across the city.  BasiGo manages all aspects of charging infrastructure deployment and management, including the cost of power. Through Pay-As-You-Drive, operators know their buses will be charged every night from a charging network that is convenient, reliable, and guaranteed.
+Maximizing Uptime
+With Pay-As-You-Drive, operators have peace of mind knowing that service and maintenance for their E-Bus is included for free.  BasiGo’s expert service operation guarantees 90% uptime for our E-buses, and also offers free roadside assistance and comprehensive vehicle insurance. Most importantly, since owners pay BasiGo based on kilometers driven, BasiGo is invested alongside bus operators in keeping the Electric Bus on the road in good condition.
+Want to learn more?
+Contact BasiGo
+Pricing — BasiGO
+Our
+Pricing
+Model
+Full Electric Bus Lease
+Lease the entire electric bus
+with a low security deposit and an affordable Pay-As-You-Drive fee.
+Pay-As-You-Drive Services Include:
+Free charging at BasiGo Depots
+Nightly Inspection and Cleaning
+Free maintenance at 15,000km intervals
+Roadside Assistance
+Comprehensive Insurance
+Bus Monitoring and Analytics through PAYD
+90% Uptime Guarantee per month
+How it works
+Pricing
+Battery Lease
+Purchase the E-Bus without the battery
+for a similar price to a diesel bus.
+Lease just the battery from BasiGo
+through an affordable Pay-As-You-Drive fee .
+Pay-As-You-Drive Services Include:
+Free charging at BasiGo Depots
+Nightly Inspection and Cleaning
+Free 15,000km service
+Roadside Assistance
+Comprehensive Insurance
+Bus Monitoring and Analytics through PAYD
+90% Uptime Guarantee per month
+How it works
+Pricing
+Benefits of Pay-As-You-Drive
+Lower Costs
+Owners pay a lower deposit than a diesel bus and then an
+affordable, mileage- based fee
+to get all the benefits of a BasiGo E-Bus. With Pay-As-You-Drive, owners can break even on their deposit in less than 12 months!
+All Inclusive
+Pay-As-You-Drive lease makes life simple for owners by
+including charging, service, cleaning, roadside assistance, and vehicle insurance.
+With Pay-as-you-Drive, there are no more fuel and service payments, just a simple fee based on km driven.
+Full Transparency
+With BasiGo’s PAYD software, owners and financiers  have full visibility of their bus including
+real-time tracking, bus performance, service records, and lease payments
+. PAYD brings a new level of control and transparency to a bus investment.
+
+
+We’re here to
+drive
+the future.
+The Problem
+By 2025, Africa will have 10 mega-cities each with over 10 Million people. Diesel buses are the primary mode of transport in these cities accounting for 40% of all trips.  But meeting mobility needs of a growing population with more diesel buses poses an enormous challenge. Diesel tailpipe emissions already choke the air with toxic pollution. Dependence on diesel imports directly affects economic growth. All while diesel-powered buses further accelerate catastrophic climate change across the African continent. To keep pace with their own growth, African cities are in need of a sustainable mobility revolution.
+The Opportunity
+Africa is home to some of the most abundant clean energy in the world. Over 70% of the electricity in East Africa already comes from renewable sources such as hydropower, geothermal, solar, and wind. Replacing a diesel bus in East Africa with an electric bus has greater social, environmental, and climate impact than anywhere else in the world, all while saving bus owners money. Africa has the opportunity to become global leaders in the transition to inclusive, sustainable public transport.
+Who are We?
+Headquartered in Nairobi, BasiGo is starting a sustainable mobility revolution in African cities. We bring together experts in electric vehicles, public transport, the power sector, asset finance, software, and data science.  What binds us together is our belief that Africa can be a global leader in the transition to inclusive, sustainable public transport, and our commitment to making that a reality.
+Our Commitment to ESG
+BasiGo's commitment to ESG principles is integral to our mission of transforming Africa’s urban transport.  For the Environment, we are committed to creating clean transport solutions that can scale to meet the urgency of our climate and environmental crisis. Socially, we are committed to making clean transport accessible and affordable to all while building inclusive employment opportunities across our ecosystem. Our governance is rooted in transparency, ethical practice, and accountability to ensure we uphold our values. ESG shapes how we grow our business, work with partners , and preserve this precious planet which we all share.
+Our Values
+Accessibility
+.
+We make safe, clean transport ACCESSIBLE to all people in Africa.
+Revolutionize
+.
+We REVOLUTIONIZE the bus experience for owners and passengers.
+Scale
+.
+We build solutions that SCALE to meet the urgency of the climate crisis.
+Team
+.
+We succeed as a TEAM by helping each other grow and thrive.
+Our People,
+Watt
+a Team
+!
+Learn more >
+Our Investors
+In The News
+In The News
+Oct 23, 2024
+BasiGo Secures $42M in Funding to Scale Public Transport Electrification in Sub-Saharan Africa
+Oct 23, 2024
+Oct 23, 2024
+Sep 26, 2024
+BasiGo Named Best Green Startup at The Global Startup Awards
+Sep 26, 2024
+Sep 26, 2024
+Aug 15, 2024
+BasiGo’s electric bus initiative gets Ksh.1.B U.S. boost, aims for 1,000 buses by 2025
+Aug 15, 2024
+Aug 15, 2024
+Learn more >
+BasiGo Rwanda
+info.rwanda@basi-go.com
+Tel. +250 794 096 940
+BasiGo Kenya
+info@basi-go.com
+Tel. +254 718 966 591
+©2024 Copyright BasiGo.
+All Rights Reserved.
+Privacy Policy
+Pay-As-You-Drive
+Careers
+About Us
+About Us — BasiGO
+We’re here to
+drive
+the future.
+The Problem
+By 2025, Africa will have 10 mega-cities each with over 10 Million people. Diesel buses are the primary mode of transport in these cities accounting for 40% of all trips.  But meeting mobility needs of a growing population with more diesel buses poses an enormous challenge. Diesel tailpipe emissions already choke the air with toxic pollution. Dependence on diesel imports directly affects economic growth. All while diesel-powered buses further accelerate catastrophic climate change across the African continent. To keep pace with their own growth, African cities are in need of a sustainable mobility revolution.
+The Opportunity
+Africa is home to some of the most abundant clean energy in the world. Over 70% of the electricity in East Africa already comes from renewable sources such as hydropower, geothermal, solar, and wind. Replacing a diesel bus in East Africa with an electric bus has greater social, environmental, and climate impact than anywhere else in the world, all while saving bus owners money. Africa has the opportunity to become global leaders in the transition to inclusive, sustainable public transport.
+Who are We?
+Headquartered in Nairobi, BasiGo is starting a sustainable mobility revolution in African cities. We bring together experts in electric vehicles, public transport, the power sector, asset finance, software, and data science.  What binds us together is our belief that Africa can be a global leader in the transition to inclusive, sustainable public transport, and our commitment to making that a reality.
+Our Commitment to ESG
+BasiGo's commitment to ESG principles is integral to our mission of transforming Africa’s urban transport.  For the Environment, we are committed to creating clean transport solutions that can scale to meet the urgency of our climate and environmental crisis. Socially, we are committed to making clean transport accessible and affordable to all while building inclusive employment opportunities across our ecosystem. Our governance is rooted in transparency, ethical practice, and accountability to ensure we uphold our values. ESG shapes how we grow our business, work with partners , and preserve this precious planet which we all share.
+Our Values
+Accessibility
+.
+We make safe, clean transport ACCESSIBLE to all people in Africa.
+Revolutionize
+.
+We REVOLUTIONIZE the bus experience for owners and passengers.
+Scale
+.
+We build solutions that SCALE to meet the urgency of the climate crisis.
+Team
+
+
+BasiGo Secures $42M in Funding to Scale Public Transport Electrification in Sub-Saharan Africa — BasiGO
+BasiGo Secures $42M in Funding to Scale Public Transport Electrification in Sub-Saharan Africa
+Oct 23
+Written By
+Dorcus Wanjiru Kamotho
+The capital raised by BasiGo combines $24 Million in Series A equity funding and $17.5 Million in debt.
+The Series A equity round has been led by Africa50 with co-investment from Novastar Ventures, CFAO Kenya, Mobility54, SBI Investment, Trucks VC, Moxxie Ventures, and Susquehanna Foundation.
+The Series A funding satisfies a key commitment to unlocking the $10 million loan facility from
+U.S. Development Finance Corporation (DFC)
+for BasiGo Kenya.  It also unlocks an additional $7.5 million debt facility from
+British International Investment (BII)
+to scale BasiGo’s E-bus deployments in Rwanda
+The capital will be put towards BasiGo’s objective of delivering 1,000 electric buses in East Africa in the next 3 years, while also enabling the company to expand to new vehicle types and new markets.
+Nairobi, Kenya| October 23, 2024:
+BasiGo, the leading provider of electric bus solutions in sub-Saharan Africa, has today announced the successful closing of a US$42 million in new capital.
+The funding round consists of US$24 million in Series A equity funding along with US$17.5 million in debt facilities from British International Investment (BII) and the U.S. Development Finance Corporation (DFC). The equity funding round is led by Africa50, the pan-African infrastructure investor and asset manager, marking the most significant investment from an African fund in an e-mobility company.
+The equity round features co-investments from Novastar Ventures, CFAO Kenya, Mobility54, SBI Investment, Trucks VC, Moxxie Ventures, and Susquehanna Foundation. The Series A equity round unlocks a $10 million debt facility from DFC for BasiGo Kenya, as well as a new $7.5 million debt facility from BII specifically designed for scaling BasiGo’s E-bus deployment in Rwanda.
+Jit Bhattacharya, CEO of BasiGo remarked: “Since we founded BasiGo in 2021, our mission has been to create the future of clean, electric public transport in Africa. We are thrilled to have Africa50, a premier African infrastructure investment fund, recognize the potential of our mission. The combined equity and debt investment into BasiGo validates our business model and enables BasiGo to focus on scale and profitability. With BII's support to expand our E-bus model in Rwanda, we are ready to deliver hundreds of modern, emissions-free electric buses across East Africa.”
+The capital raised by BasiGo will be put towards the company’s core objective of delivering 1,000 electric buses in East Africa within the next 3 years. In Kenya, the funds will specifically be used to increase manufacturing capacity at BasiGo’s dedicated E-Bus assembly line located at Kenya Vehicle Manufacturers.  The investment will also support the expansion of BasiGo’s Pay-As-You-Drive offering to new vehicle types, and to improve BasiGo's technology platforms such as Jani which make electric buses more accessible and convenient for passengers.
+“We are delighted to conclude Africa50’s first investment in the e-mobility space to support the greening of the public transport sector in Kenya and Rwanda. We believe BasiGo is well positioned to scale in East Africa and beyond given its world class engineering and operations teams, strong value proposition to transport operators and the caliber of strategic and financial partners assembled by the founders,” said Raza Hasnani, Managing Director and Head of Infrastructure Investments at Africa50. “As the largest investment to date by an African fund in an e-mobility company, we are proud to support innovation that drives green growth and development in the region,” added Mr. Hasnani.
+Steve Beck, Managing Partner at Novastar Ventures commented: “As an early investor in BasiGo, we are immensely proud of the team’s continued progress towards transforming the public bus transport sector in Africa - delivering improved experience for commuters and substantial environmental benefits. This latest funding round is a testament to the strong investor confidence in BasiGo’s business model, value proposition and customer demand as it expands its operations and leads the way in sustainable transportation in Africa. We are thrilled with this latest milestone and look forward to our continued partnership with BasiGo through the next phase of growth and beyond.”
+In December 2023, BasiGo expanded its operations to Rwanda where it is currently operating 6 pilot electric buses on routes inside Kigali as well as inter-city routes serving nearby towns. The newest debt facility from BII will be put towards launching commercial deliveries of E-Buses in Rwanda, where BasiGo has already received over 300 reservations from bus operators.
+Seema Dhanani, Head of Office, Kenya and Coverage Director, East Africa at BII, said: “We are delighted to support BasiGo as it expands into Rwanda. This marks a significant step in electrifying the local public transport sector, reducing pollution, and combating climate change impacts. This is in line with our priority of supporting e-mobility to foster sustainable economic growth.”
+The total capital raised represents one of the most significant investments into Electric Mobility in Africa. The investment accelerates BasiGo’s growth trajectory and strengthens its position as a leader in Sub-Saharan Africa’s evolving EV landscape.
+Dorcus Wanjiru Kamotho
+.
+These functional and required cookies are always used,
+which allow Squarespace, our hosting platform, to securely serve this website to you.
+These analytics and performance cookies
+are used on this website, as described below, only when you acknowledge our cookie banner. This website uses analytics and performance cookies to view site traffic, activity, and other data.
+Newsletter Subscription
+If you subscribed to our newsletter, we may send you marketing emails, which you can unsubscribe from by clicking the link at the bottom of the email. We share your contact information with Squarespace, our email marketing provider, so they can send these emails on our behalf.
+
+
+
+
+BasiGo Secures Financing from Rwanda Green Fund
+Jul 9
+Written By
+Jit Bhattacharya
+BasiGo Rwanda has been awarded a RWF 300 million (USD 225,000) recoverable grant from Ireme Invest, the Rwanda Green Fund’s green investment facility. The financing will be used by BasiGo to upgrade its charging infrastructure needed to support its rapidly growing fleet of electric public transport buses in Kigali. A charging station that supports at least 20 E-Buses in one night will be established.
+In June 2024, the Rwanda Green Fund announced its first round of investments worth a total of $2.7 million into 16 different companies that are fostering a vibrant circular economy, promoting sustainable cities, supercharging smart mobility and advancing climate-smart agriculture.
+"
+We appreciate Rwanda Green Fund for recognising BasiGo as one of the key contributors to the country's ambitious climate action and sustainable development goals. As the market leader in electrifying Rwanda’s bus fleet, we are committed to delivering innovative and reliable Electric Bus solutions. Our BasiGo electric buses have over the last seven months of operation demonstrated the new standard for safe, comfortable, and low-carbon public transportation solutions and helped to reduce emissions
+," said Doreen Orishaba, BasiGo Rwanda Managing Director.
+Potential for scalability
+BasiGo Rwanda is listed among nine innovative businesses offering solutions with high potential for scalability, financial sustainability, and positive environmental and economic impact across three of Ireme Invest’s investment areas. The funding was made possible through the support of the Danish International Development Agency and the UK Foreign, Commonwealth and Development Office.
+According to a statement from the Rwanda Green Fund, BasiGo is among the companies contributing to the country's ambitious climate action and sustainable development goals.
+Electrifying Rwanda
+In December 2023, BasiGo introduced the R10 Rumuri, Kigali’s first fully electric bus with a capacity of 70 passengers. This aligns with the Government of Rwanda's initiative to rapidly scale Kigali’s public transport fleet while also aiming to convert 20 per cent of the public bus fleet to electric by 2030.
+“
+Rwanda has established itself as a leader in E-mobility on the African continent. Our experience and innovative Pay-As-You-Drive financing model are well-positioned to help Rwanda transition to fully electrified public transport, reducing fuel imports and helping Rwanda meet its ambitious greenhouse gas mitigation targets,
+” said Jit Bhattacharya, CEO and Co-Founder of BasiGo.
+As of July 2024, BasiGo E-buses in Kigali had registered:
+▪ 107,000 Electric kilometres driven
+▪ 385,125 passengers ferried
+▪ >60 Tonnes of CO2 mitigated
+▪ 26,662 liters of diesel avoided
+▪ 100% uptime recorded
+▪ > 147 million Rwandan Francs in fare revenue generated for the Operators.
+
+
+Norwegian Foreign Minister visits BasiGo Charging Depot to learn about E-Mobility in Kenya — BasiGO
+Norwegian Foreign Minister visits BasiGo Charging Depot to learn about E-Mobility in Kenya
+Jun 6
+Written By
+Jit Bhattacharya
+We were honoured to host the Norwegian Foreign Minister, Hon. Espen Barth Eide as part of his official visit to Kenya, with representation from the Norwegian Embassy in Kenya,
+Norfund
+and
+Novastar Ventures
+. He affirmed Norway’s enthusiasm for Kenya’s growing e-mobility sector and it’s potential impact in the fight against climate change.
+Norfund
+'s grant scheme- Business Support will co-invest with BasiGo in a project aimed at improving road safety with our Electric Buses. We are excited to work with Norfund to build a future for public transport in Kenya that is safe, inclusive, and zero carbon!
+The e-mobility revolution is here and BasiGo is proud to collaborate with partners such as
+Norfund
+and
+Novastar Ventures
+to ensure this vision becomes a reality!
+hashtag#BasiGoDelivers
+hashtag#SustainableTransport
+Jit Bhattacharya
+Previous
+Previous
+BasiGo selected as a 2024 Technology Pioneer by the World Economic Forum
+Next
+Next
+
+
+
+
+We are very excited that Kenya today has launched its National Road Safety Action Plan 2024-2028 that aims to reduce road fatalities by 50% come the year 2030. At BasiGo we believe the PSV sector will account for a significant portion of the reduction.
+Moses Nderitu
+, our Managing Director BasiGo Kenya had the honour of taking Kenya’s President H.E.
+William Samoei Ruto, PhD
+and Roads and Transport Cabinet Secretary Hon.
+Kipchumba Murkomen
+, EGH through the
+Telematics System, fitted on all our electric buses.
+At BasiGo, safety of buses, passengers and crew is in our DNA. The Telematics System gives real-time data about driver and crew behaviour, passenger safety, vehicle location and condition, battery health, speed as well live video from on-board cameras and dash cams. Operators and fleet managers use this data to ensure safety compliance when our e-buses are on the road.
+BasiGo is delighted to be taking the lead in setting safety standards for the public service vehicle sector that is critical in driving the economy.
+#BasiGoDelivers
+Jit Bhattacharya
+Previous
+Previous
+BasiGo CEO presents Kenya’s E-mobility Potential at round table with President Ruto and U.S. President Biden
+Next
+Next
+CABINET SECRETARY REBECCA MIANO LAUNCHES KENYA’S FIRST DEDICATED HIGH VOLUME ASSEMBLY LINE FOR ELECTRIC BUSES
+BasiGo Rwanda
+info.rwanda@basi-go.com
+Tel. +250 794 096 940
+BasiGo Kenya
+info@basi-go.com
+Tel. +254 718 966 591
+©2024 Copyright BasiGo.
+All Rights Reserved.
+Privacy Policy
+Pay-As-You-Drive
+Careers
+About Us
+CABINET SECRETARY REBECCA MIANO LAUNCHES KENYA’S FIRST DEDICATED HIGH VOLUME ASSEMBLY LINE FOR ELECTRIC BUSES  — BasiGO
+CABINET SECRETARY REBECCA MIANO LAUNCHES KENYA’S FIRST DEDICATED HIGH VOLUME ASSEMBLY LINE FOR ELECTRIC BUSES
+Apr 16
+Written By
+Jit Bhattacharya
+INVESTMENTS, TRADE & INDUSTRY CABINET SECRETARY REBECCA MIANO LAUNCHES KENYA’S FIRST DEDICATED HIGH VOLUME ASSEMBLY LINE FOR ELECTRIC BUSES AT KENYA VEHICLE MANUFACTURERS (KVM), THIKA
+Investments, Trade & Industry Cabinet Secretary Rebecca Miano has inaugurated
+Kenya’s first
+dedicated Electric Bus assembly line at the Kenya Vehicle Manufacturers plant in Thika.
+BasiGo aims to locally assemble
+1,000 buses over three years
+,
+creating over 300 green manufacturing jobs
+.
+BasiGo has already completed the assembly of two E9 Kubwa buses that are specifically designed for the Kenyan PSV market.
+Nairobi, Kenya:
+Investments, Trade & Industry Cabinet Secretary Rebecca Miano has today inaugurated BasiGo’s Electric Bus production line at the Kenya Vehicle Manufacturers plant in Thika. This is Kenya’s first dedicated assembly line for modern Electric Buses.
+In February 2024, BasiGo completed the assembly of two E9 Kubwa buses, a 9-metre electric bus specifically designed for the Kenyan PSV market and poised to revolutionise public transport in Kenya.
+“One of the key priorities of the Government is addressing climate change and reducing greenhouse gas emissions. The transport sector is a significant contributor to carbon emissions and transitioning to electric vehicles presents a sustainable solution to mitigate environmental degradation and address the negative effects of climate change,” said CS Miano.
+During the event, CS Miano flagged off the first two E9 Kubwa buses that have been assembled at KVM. These buses will now enter operation with Citi Hoppa and Super Metro, both of whom are in the process of converting their fleet to electric buses.
+“We thank the Government for supporting BasiGo as we scale electrification of public transport here in Kenya. The transition to clean, electric buses represents more than just impact on the environment.  It is an opportunity for Kenya to establish itself as a manufacturing hub for modern EV’s as well as the components that make up those vehicles. We are proud to support Kenya in taking the lead by inaugurating this first-of-its-kind E-Bus assembly line in partnership with KVM," said Jit Bhattacharya, CEO and Co-Founder of BasiGo.
+The inauguration of the new line represents a significant step towards sustainability for Kenya's public transportation system.
+CS Miano added: “The Government recognises the critical role that investment such as BasiGo plays in driving economic growth, creating employment opportunities and improving the livelihoods of our citizens. We have therefore prioritised the creation of a conducive business and investment climate, with robust policies besides streamlining regulations and setting up strategic incentives aimed at attracting and retaining investors.”
+BasiGo plans to locally assemble 1,000 E-Buses for Kenyan bus operators over the next three years, an investment that will create 300 green manufacturing jobs in Kenya. Already, BasiGo has over 500 orders from bus operators in Nairobi and an additional 100 reservations from bus operators in Kigali, Rwanda.
+“We have proven that local assembly is viable and impactful. Now, we urge policymakers to create an enabling environment that fosters innovation, job creation, and economic growth. Together, we can chart a brighter future for mobility in Kenya and Africa," added Moses Nderitu, the BasiGo Kenya Managing Director.
+
+
+About BasiGo
+BasiGo is an E-mobility company bringing the future of clean, electric public transport to sub-Saharan Africa.  Headquartered in Nairobi, Kenya, the company offers state-of-the-art electric buses along with charging and maintenance services for public service bus operators. BasiGo makes electric buses affordable to operators through an innovative financing model called “Pay-As-You-Drive”. In 2022, BasiGo became the first company to introduce electric buses into passenger operations in Kenya. To learn more, visit
+www.basi-go.com.
+About KVM
+Kenya Vehicle Manufacturers (KVM) was the first assembly plant in Kenya. The other two are AVA Mombasa and Isuzu. Isuzu only produces for Isuzu.
+Originally named Leyland Kenya, KVM’s first production off line was in August 1976. The plant was originally designed to produce light and heavy commercial vehicles. However, over time, production slowed down as Kenya’s economy declined, and KVM diversified into bus and truck body building.
+In February 2024, the Kenya Government and Toyota Tsusho Corporation of Japan signed a framework agreement for collaboration in vehicle manufacturing. Toyota Tshusho committed KSh 800 million to revive KVM. Currently the Government of Kenya is the largest shareholder at KVM with a 35 percent stake while CMC and DT Dobie own 32.5 each respectively.
+Jit Bhattacharya
+Previous
+Previous
+BasiGo shares advanced Safety Features of E-Buses with H.E. President Ruto and Transport CS Murkomen
+
+
+About Us
+CFAO Group, subsidiary of Toyota Tsusho Corporation, invests $3 Million into BasiGo for scale-up — BasiGO
+CFAO Group, subsidiary of Toyota Tsusho Corporation, invests $3 Million into BasiGo for scale-up
+Mar 27
+Written By
+Jit Bhattacharya
+https://thefounder.africa/cfao-group-invests-3-million-in-basigo-to-boost-east-africas-electric-bus-production/
+BasiGo Co-Founders signing agreement with Akira Wada, Managing Director of CFAO Kenya
+Empowering East Africa's Electric Mobility
+BasiGo,  a leading electric bus company, has secured a significant boost of $3  million (Sh396 million) in equity funding from the CFAO Group. This  strategic investment aims to accelerate the production and delivery of  electric buses in Kenya and Rwanda, marking a significant milestone in  the region's transition towards sustainable transportation solutions.
+CFAO Group's Commitment to E-Mobility
+With  operations spanning across 40 African countries, the CFAO Group boasts  Africa's premier automotive distribution network. Recognizing the  immense potential of e-mobility, CFAO has been actively investing in the  sector, recently launching the first dealership for BYD electric cars  in Kigali, Rwanda. Through Mobility54, its corporate venture capital  arm, CFAO is dedicated to fostering the growth of e-mobility startups  across East Africa, further solidifying its position as a key player in  the region's green transportation revolution.
+Scaling Up Electric Bus Production
+BasiGo's  ambitious goal is to deliver 1,000 locally assembled electric buses  within the next three years, paving the way for a greener and more  sustainable transportation ecosystem in Kenya and Rwanda. This  initiative is expected to create 300 green manufacturing jobs, driving  economic growth and fostering innovation in the region.
+Meeting Growing Demand
+The  recent infusion of funding will enable BasiGo to meet the increasing  demand for electric buses, with over 500 reservations already secured  from bus operators in Nairobi and an additional 100 reservations from  operators in Kigali, Rwanda. The company aims to fulfill part of the 600  buses that have been reserved, further solidifying its position as a  leader in the electric mobility space.
+A Vision for Sustainable Development
+Jit  Bhattacharya, Co-Founder and CEO of BasiGo, views this funding as a  crucial step in the company's expansion strategy across Africa. "As a  player in the energy and mobility industry in Africa, CFAO recognizes  the extraordinary opportunity for electric mobility to transform African  economies," said Bhattacharya, emphasizing the potential of e-mobility  to drive sustainable development and economic prosperity across the  continent.
+Towards Carbon Neutrality
+The  investment in BasiGo aligns with broader efforts to achieve carbon  neutrality in Kenya. In February 2024, Toyota Tsusho Corporation, CFAO  Group, and CFAO Motor Kenya joined forces to establish a green energy  value chain, aiming to support Kenya's transition to carbon neutrality.  By promoting the adoption of electric vehicles and green energy  solutions, these initiatives contribute to mitigating greenhouse gas  emissions and promoting environmental sustainability.
+Pioneering Green Transportation
+BasiGo's  electric buses have already made a significant impact, having driven  over 1.5 million kilometers in Kenya, carried over 2.1 million  passengers, and mitigated over 680 tons of greenhouse gas emissions.  With the completion of their first locally assembled electric buses,  BasiGo is poised to lead the charge towards a cleaner, greener future  for transportation in East Africa.
+Commitment to Sustainable Growth
+Akira  Wada, Managing Director of CFAO Kenya, emphasized the transformative  potential of this investment, stating, "Through this investment, we are  not only supporting the growth of the electric vehicle industry but also  contributing to the development of a sustainable green energy value  chain that will benefit communities across Africa." This commitment  underscores the shared vision of BasiGo and CFAO Group to drive  sustainable growth and prosperity across the region.
+Jit Bhattacharya
+Previous
+Previous
+CABINET SECRETARY REBECCA MIANO LAUNCHES KENYA’S FIRST DEDICATED HIGH VOLUME ASSEMBLY LINE FOR ELECTRIC BUSES
+
+
+About Us
+Marian Muthui: The unstoppable force assembling Kenya’s first electric buses — BasiGO
+Marian Muthui: The unstoppable force assembling Kenya’s first electric buses
+Mar 12
+Written By
+Jit Bhattacharya
+What you need to know:
+Despite being one of the few women in this field, Marian Muthui remains focused on making a mark to inspire young girls to take a cue.
+Marian is the new product introduction (NPI) programme manager at BasiGo Kenya.
+https://nation.africa/kenya/news/gender/marian-muthui-the-unstoppable-force-assembling-kenya-s-first-electric-buses-4548876
+Jit Bhattacharya
+Previous
+Previous
+CFAO Group, subsidiary of Toyota Tsusho Corporation, invests $3 Million into BasiGo for scale-up
+Next
+Next
+A New Face in Kigali’s public transport leadership: Doreen Orishiba, BasiGo’s Rwanda MD.
+BasiGo Rwanda
+
+
+A New Face in Kigali’s public transport leadership: Doreen Orishiba, BasiGo’s Rwanda MD. — BasiGO
+A New Face in Kigali’s public transport leadership: Doreen Orishiba, BasiGo’s Rwanda MD.
+Mar 12
+Written By
+Jit Bhattacharya
+Doreen joined BasiGo in January 2022, in Nairobi, where, with two buses, she led the pilot project throughout the first six months of passenger operations. She is now leading the transition of Kigali’s public transport to affordable and accessible electric transport.
+https://www.newtimes.co.rw/article/15072/news/women/inclusion-requires-qualification-says-basigo-rwandas-md
+Jit Bhattacharya
+Previous
+Previous
+Marian Muthui: The unstoppable force assembling Kenya’s first electric buses
+Next
+Next
+BasiGo completes first locally assembled Electric Buses  in Kenya
+BasiGo Rwanda
+
+
+About Us
+BasiGo completes first locally assembled Electric Buses  in Kenya — BasiGO
+BasiGo completes first locally assembled Electric Buses  in Kenya
+Feb 7
+Written By
+Jit Bhattacharya
+Interested in how an Electric Bus gets built? Watch as the first BasiGo electric buses get built in Kenya!
+https://www.youtube.com/watch?v=33x_vmvuX9M
+Since BasiGo was founded, we committed to our electric buses being locally manufactured in Kenya. Today, we are proud to share that we have completed assembly of our
+first locally built E9 Kubwa E-Buses
+with our partners at Kenya Vehicle Manufacturers!
+These E-Buses arrived as parts from our OEM partner,
+CHTC MOTOR CO., LTD
+. They were built with weeks of dedication and attention to detail by the BasiGo and KVM manufacturing teams.
+BasiGo and KVM are collaborating to launch Kenya’s first high-volume E-Bus assembly line. This dedicated assembly line will deliver 1000 high-quality, locally assembled electric buses to Kenyan bus operators in the next 3 years, creating 300 green manufacturing jobs.
+Kenya has the potential to be a leader in the manufacturing/assembly of modern EV’s. BasiGo and KVM are making that a reality, and each bus we produce here will proudly bear the mark
+
+
+
+
+Written By
+Jit Bhattacharya
+BasiGo LinkedIn
+We are honored to have had Ms. Keisha Effiom, Deputy Mission Director
+USAID
+Mission to Rwanda and Burundi as Chief Guest at the launch of our Electric Buses into passenger pilot operations in Kigali on Monday! While flagging off the buses, Ms. Keisha delivered great remarks on behalf of the US Government and the
+USAID
+Mission, where she recognised our E-Buses as a beacon of responsibility and hope for cleaner and greener streets for the future generations. Plus, she drove the bus!!
+We are grateful to
+USAID
+Rwanda’s support as one of our partners who made this pilot launch possible. Recently
+USAID
+awarded BasiGo a USD 1.5 million grant to scale green public transport in Rwanda, which directly supports our electric bus pilot programme.
+Our first two E-buses are now in operation with Kigali Bus Service and Volcano plying routes in Zone 1 and Zone 2. We are proud to
+hashtag#TakeTheLead
+in creating a sustainable, inclusive public transport ecosystem in Rwanda BasiGo is committed to delivering 200 state-of-the-art e-buses to Rwanda by 2025.
+AC Group Rwanda
+------------------------------------------------------------------------------------------------------------------------------
+
+
+AMPERSAND  STARTUP
+
+
+PAVING THE WAY FOR AFFORDABLE, LOWER-CARBON PUBLIC TRANSPORT
+
+
+Ampersand is Africa’s first electric transport energy company with the longest track record of serving a commercial e-motorcycle fleet and battery swapping network at scale.
+We are creating a world where motorcycle transport is cleaner and more profitable for its consumers than ever before.
+Going electric will double a driver’s income now, and leapfrog Africa towards a zero carbon future.
+
+
+AMPERSAND HAS A voided nearly 11,500 tons of emissions Powered over 150 million km Increased customers income by 45% per day
+​
+OUR CUSTOMERS
+Our customers work hard.
+They tend to be in their late 20’s - 30’s, work 6 days a week, for an average of 14 hours and covering up to 190km per day. Electric motorcycle drivers earn 45% more than with petrol bikes due to fuel and maintenance savings – They save40% a year on fuel. 
+
+
+The income they generate typically supports 4.6 people on average in Rwanda and
+3.8 people in Kenya.
+Ampersand's solution is designed with taxi drivers' in mind. Our guiding philosophy is to offer drivers a motorcycle and energy that costs less to acquire and operate, outperforms their current setup in every way, and happens to be electric. Battery swaps are faster than refueling, cost less than a tank of petrol, and take the driver further. We take care of the batteries’ maintenance and financing is also available.
+Ampersand's e-motos cost the same as petrol motorcycles to buy and finance, and half as much to power, meaning that by switching to electric customers can increase their take home pay by 45%
+​
+​
+​
+About
+OUR TECHNOLOGY
+Ampersand has developed a business model and technology that seamlessly fits drivers' operations. We have created a network of swap stations that allow drivers to access smart batteries as and when they need them.
+​
+Our technology captures live battery data every 5 seconds, resulting in greater efficiency, meaning that our solution can electrify Africa’s motorbikes quickly.
+​
+
+
+WORLD-CLASS R&D
+Ampersand is Africa’s first electric transport energy company with the longest track record of serving a commercial e-motorcycle fleet and battery swapping network at scale. Since Ampersand was founded in 2016, it has grown to be best in class for technology and performance, with more than 500 employees and a presence in Rwanda and Kenya.
+Through extensive testing and R&D, Ampersand has grown its fleet to a current 3,900, and is expected to surpass 40,000 by the end of 2026. By powering commercial transport through its reliable electrical energy supply, Ampersand is paving the way for affordable, lower-carbon public transport, creating green jobs.
+​
+EVOLUTION
+June 2023
+Fleet reaches 1000 e-motorcycles on the roads of Kenya and Rwanda and 115,000 monthly swaps
+July 2022
+Ampersand arrives in Kenya, delivering the first e-motorcycles to Boda customers
+2021
+60 vehicles in commercial operation
+2018
+Five different prototype vehicles tested in Kigali: on road, in the lab, and with customers
+December 2022
+Fleet reaches 800 vehicles and 80,000 battery swaps per month
+April 2022
+Series production begins at 30 vehicles per week
+2019
+Commercial launch:
+3 swap stations across Kigali and fleet of 20 e-moto taxis
+Rwanda announces mototaxi electrification goals
+
+
+OUR MISSION
+Lead the shift to clean, affordable mobility through unmatched customer experience.
+
+
+OUR VISION
+A world where motorcycle transport is cleaner and more profitable for its consumers
+OUR TEAM
+
+
+Headquartered in Kigali, Ampersand has grown from a tiny bootstrapped R&D garage project into Africa's leading electric vehicle operation, with a team of more than 500 staff in Rwanda, Kenya, and Germany.
+​
+All Ampersand motorcycles and batteries are assembled on-site by our talented team.
+Investing in the next generation of African developers and engineers is crucial to putting Africa on the map and leading the way with new technologies.
+That’s why we host a number of intern roles in all departments and are always on the lookout for fresh talent who are excited by our vision.
+​
+
+
+OUR VALUES
+Customer-centric Everyday
+We prioritize our customers daily, tailoring solutions to exceed expectations.
+Challenge The Status Quo Through Innovation
+Our dedicated teams constantly challenge the status quo, driving innovation to enhance customer experiences and deliver solutions that go beyond expectations
+Love Solving Problems Together
+Internal collaboration is our approach; we thrive on solving challenges alongside our customers.
+Stay Agile
+We stay agile to swiftly meet dynamic customer needs and adapt to a changing landscape.
+Driven By People And Planet
+Beyond business, we're committed to people and the planet, ensuring a positive impact.
+​
+WHO WE ARE
+WHAT WE DO
+
+
+BUILDING THE FUTURE OF ENERGY FOR TRANSPORT
+Our business model and technology are designed to fit seamlessly with drivers' operations. Drivers access smart batteries on demand from the network of Ampersand swap stations.
+​
+​With our solution drivers enjoy the savings of e-mobility without the upfront cost, and risk of buying a lithium battery pack or increasing downtime while waiting for batteries to recharge.
+Renting a charged battery from Ampersand saves drivers around 45% compared to fuel and oil changes. Each battery delivers around 350,000 km of range over its lifetime, and 50-110km per swap depending on the type of usage, the roads travelled, and weight carried. This means drivers need to swap out less frequently than drivers in East Africa typically refuel with petrol. It's all made possible by Ampersand's unique Amper-Ops connected network of smart batteries, swap stations, and a vehicle drivetrain tailored to our customers' needs and African roads.
+​
+HOW IT WORKS
+1. Drivers purchase or leases a pay-as-you-drive Ampersand e-moto
+2. Through Ampersand’s Driver App, they check when the battery is low and visit a battery swap station
+3. In less than 2 minutes, Ampersand swaps out the depleted battery for a new one and the driver pays for the energy used
+4. The driver continues their day, swapping when required
+
+
+
+
+MEET THE AMPERSAND GEN3 MOTORCYCLE
+
+
+* Enhanced safety lights
+* Ampersand Mid-Drive chain drive PMSM
+* 67 Nm Torque
+* FM Radio built-in
+* Storage
+* compartment
+* Top speed
+* 80km/h
+* Smart digital display
+* Swap subframe
+* Dynamic energy recovery system
+* Swappable smart battery
+* 72 km Range on real-world heavy-duty Ampersand drive cycle
+
+
+MEET THE BATTERY THAT POWERS IT ALL:
+* SMART HM17
+* Ultra-long life
+* technology
+* Realtime data
+* Passive cooling
+* built-in
+* BLE/GSM/GPS built-in
+* Over-the-air
+* configurations and updates
+* Rapid charge
+* technology
+* Built-in Anti-Theft,
+* Anti-Tamper technology
+* Field maintainable
+* design
+* Built in safety, UN38.3
+
+
+
+
+OUR SOFTWARE PLATFORM MAKES THE ENERGY TRANSITION EASY
+Ampersand has created the future of battery fleet management through our proprietary Amper-Ops online and mobile platforms.
+Amper-Ops agile system allows for:
+* Seamless management of battery packs with customizable parameters such as state of health analysis and geofenced alarms
+* Customizable insights to intimately understand the ROI of each station, driver, and battery and respond in real-time
+* Smart maintenance systems that automatically alert us to required battery or vehicle repairs before breakdowns happen
+
+
+AN EXPERIENCE WHERE DRIVERS KNOW EXACTLY WHAT’S GOING ON
+
+
+Ampersand's Driver App revolutionizes vehicle management, providing drivers with effortless vehicle safety management. The Driver App empowers drivers by:
+* Enabling them to check the current battery level
+* Allowing real-time information on battery levels in stations
+* Helping them locate the nearest swap station and discounts
+* Keeping track of swaps and swap transactions
+
+
+SEAMLESS SWAPS WITHIN SECONDS
+Ampersand's Swap App is the key to managing swap stations effectively and efficiently. The app helps streamline operations by:
+* Real-time swap processing
+* Battery charge rate tracking
+* Automating the payment process
+* Works online or offline
+* Quick battery locating in stations for optimal throughput
+
+
+
+
+
+
+PASSIONATE ABOUT CLIMATE CHANGE
+Ampersand was founded to achieve a crucial tipping point in the fight against climate change: the world's first mass-market electric vehicle that costs less to acquire, maintain, and operate than a fuel vehicle.
+Years of work have gone into identifying the right market and designing the vehicle and business model hand in hand with our users to get the right fit.
+We make the electric option the obvious choice for our customers by putting serious money back into the pockets of drivers and their families.
+In the process, we help propel the EV industry to scale and prove to the world that the fuel age is over and electric mobility is for everyone.
+
+
+
+
+OUR CUSTOMER
+
+
+Right now, there are 22 million commercial motorcycles in Africa. Moto-taxis effectively navigate congestion while transporting 100M people in East Africa every day.
+​
+Many drivers spend over $11 daily on fuel and vehicle leasing costs but take home as little as $1.60 each day.
+Ampersand can save customers 45% of their savings compared to internal combustion engine motorcycles.
+​
+REDUCING EMISSIONS
+
+
+Ampersand’s e-motos cost less than petrol ones to lease or buy and half as much to power. They produce 75% less lifecycle greenhouse emissions than petrol motorbikes using grid power and up to 97% less using renewables.
+​
+Our battery packs are built to our own design and are assembled by our constantly expanding team in Rwanda.
+​
+MEET OUR CUSTOMERS
+With the Ampersand
+e-moto, maintenance costs are lower as we don’t need chain and oil which cost a lot. Now I benefit more from my income and I am able to start saving.
+Gitwaza
+
+
+Working with Ampersand is a great opportunity for me as apart from their innovation they care about our personal life. They helped us during the lock-down and are flexible in terms of contracts.
+Rukundo
+
+
+My life has changed and is better than when I had my previous moto. I can save extra money I would have used on fuel. I don’t waste time at the garage anymore. With my previous motorcycle I had to go at least 2 days a week.
+Etienne
+​
+
+
+​
+
+
+POLICY | AMPERSAND
+​
+Ampersand is committed to protecting your privacy, keeping your information safe and ensuring the security of your personal information. To provide you with the best products and services, your personal information will be collected, processed lawfully, stored securely and not disclosed unlawfully to any third party.
+Definitions of terms
+​
+Personal Data
+Any information relating to an identified or identifiable natural person who can be identified,directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical,psychological, genetic, mental, economic, cultural or social identity of that natural person.
+​
+Sensitive Personal Data:
+Any information revealing a person’s race, health status, criminal records, medical records, social origin, religious or philosophical beliefs, political opinion, genetic or biometric information, sexual life or family details.
+​
+Consent of the data subject:
+Freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by an oral, written or electronic statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
+Cookies:
+A small text file placed on your computer or device by our sites when you visit certain parts of our sites and/or when you use certain features of our sites.
+​
+Data Controller:
+Natural person, public or private corporate body or legal entity which, alone or jointly with others, processes personal data and determines the means of their processing.
+Data Processor:
+Natural person, public or private corporate body or legal entity, which is authorized to process personal data on behalf of the data controller.
+​
+Data Subject:
+A natural person from whom or in respect of whom, personal data has been requested and processed.
+​
+User:
+An individual using our service. The user corresponds to the data subject.
+​
+Data Protection Impact Assessment (DPIA):
+A process designed to identify risks arising out of the processing of personal data and minimization of these risks as far and as early as possible. DPIAs are important tools for negating risk, and for demonstrating compliance, including ongoing compliance, with the DPP
+law.
+​
+Lawful Basis:
+The lawful grounds for processing personal data set in the DPP law.
+Third Party:
+is a service provider who is contracted to provide a service or product which may include the handling, managing, storing, processing, protecting, and transmitting information of and for Ampersand. This includes all subcontractors, consultants and/or representatives of the Third party.
+​
+Curriculum vitae or “CV”:
+A written account of the professional life comprising one's personal details, education, accomplishments, work experience, publications, etc.
+​
+Processing of personal Data:
+Any operation or set of operations which is performed on personal data or on sets of personal data,whether or not by automated means, such as access to, obtaining, collection, recording, structuring,
+storage, adaptation or alteration, retrieval, reconstruction, concealment, consultation, use,disclosure by transmission, sharing, transfer, or otherwise making available, sale, restriction,erasure or destruction.
+1. Introduction
+This policy explains how Ampersand collects, uses, and protects your information.
+2. Who does this Statement apply to?
+This Statement applies to:
+Our customers and/or users who are natural persons or living individuals
+Our customers and/or users who are organizations
+Our job applicants or prospective employees.
+Our contractors, suppliers, partners, and service providers.
+Our current employees (whether they are employed on a permanent, temporary, or fixed-term contract including interns, secondees and graduates).
+3. Legal Basis for Data Processing
+​
+We process your data for the following purposes:
+​
+Legal Obligation:
+In some circumstances, where the processing of the personal data is necessary for the performance of an obligation conferred or imposed by law on Ampersand, we will rely on Legal Obligation as a basis to process the personal information you have provided
+Legitimate Interest:
+We may process your data for our legitimate business interests, such as marketing or improvement of our services. Whenever we rely on this lawful basis to process your data, we assess our business interests to make sure they do not override your rights. Additionally, in some cases, you have the right to object to this process. See the “Data Subjects Rights” section of this policy.
+Consent:
+We may rely on the consent you provide in the absence of any other legal basis. Consent will always be presented separately to you, can be withdrawn at any time and you will be given details on how to do so.
+Contractual obligation:
+We rely on a contract as a legal basis to process your personal information when we need to deliver a contractual service to you or when it has become necessary to process data before entering into a contract with you.
+4. What Personal Data does Ampersand collect and use?
+Ampersand and its authorized third parties may collect, store, process personal data including but not limited to:
+Name, sex, date of birth, addresses, mobile phone number, email address, bank account information, active location data, IP address, browser type, occupation and information contained in supporting documents such as National ID, CVs, cover letters, proof of identity and others.
+5. Data Minimization
+Ampersand adheres to the principle of data minimization, collecting only the data necessary for the intended purpose.
+6. Data Accuracy
+We endeavor to ensure the data we process is accurate and encourage you to update your personal data in our possession when it changes by contacting us. See the “How to contact DPO” section of this policy.
+7. Purpose Limitation
+Personal data is processed only for defined purposes ensuring it is not used beyond the original collection purpose.
+We use the collected information for the following purposes:
+To serve better our clients, customers, partners and staff
+To provide and maintain our products and services
+To process transactions and send invoices
+To communicate with you about our products, services, and promotions
+To improve our website and services based on user feedback
+To comply with legal and regulatory requirements
+8. Data Security
+Ampersand employs strong physical and digital security measures to protect personal data from unauthorized access, disclosure, alteration, or destruction.
+Our security practices and procedures are within industry standards. Further, our employees and service providers / partners are bound by Codes of Conduct and Confidentiality Policies which require them to protect the confidentiality of personal information they access.
+9. Data Subject Rights
+Individuals have the right to access, correct, or delete their personal information, object to processing, withdraw consent (if applicable), and lodge complaints with a supervisory authority.
+Right to access personal information:
+You have the right to make a request for a copy of the personal information that Ampersand holds about you as permitted by law
+Right to correct personal information:
+You have the right to correct information held about you to ensure it is accurate, relevant, complete, and not excessive
+Right to object to use of personal information:
+You have the right to object to processing your personal information, in certain circumstances as permitted by law. However, in instances where the basis for processing is Legal Obligation, you may not be able exercise your right to object
+Right to opt-out of marketing messages:
+Ampersand will not issue targeted marketing to you unless you consent for us to do so. If you no longer want to receive marketing messages from Ampersand, you can choose to opt out at any time using the means made available to you
+Right to personal data portability:
+You have the right to request Ampersand to resend the personal data concerning you as it was provided. You also have the right to request that your personal data be transmitted to another data controller, where technically feasible, without hindrance
+Right to restriction of processing of personal data:
+You have the right to restrict Ampersand from processing your personal data for a given period under the conditions provided by the Law. Note that in case the purpose of collecting and processing your information was to meet our contractual obligation to you, objection to processing may hinder us from providing our services and products to you
+Right to erasure of personal data:
+You have the right to request Ampersand in writing or electronically for erasure of your personal data under the conditions provided by the Law
+Right to designate an heir to personal data:
+Your personal data are not primarily subject to succession but, where you had left a will, you provide your heir with full or restricted rights relating to the processing of your personal data kept by Ampersand, if such personal data still need to be used.
+Right to representation:
+You have right to be represented when:
+You are under sixteen (16) years of age
+You have a physical impairment and unable to represent yourself
+You are a medically determinable mental impairment and is unable to represent yourself
+You have any other reason, in which case you are being represented by another person
+In all above cases you need to provide an authorization of representation in accordance with relevant Laws.
+Right not to be subject to a decision based on automated data processing:
+You have the right not to be subject to a decision based solely on automated personal data processing which may produce legal consequences or significant consequences to you.
+10. Data Breach Response
+While Ampersand implements reasonable measures to prevent or reduce the likelihood and impact of Personal Data Breaches, this risk can’t be eliminated. If Ampersand becomes aware of or reasonably suspects a Personal Data Breach has occurred or that the integrity or confidentiality of Personal Data has been compromised, Ampersand adheres to its incident management Policies, Procedures, and supporting documents governing the handling and reporting of Personal Data Breaches.
+Procedures are in place for detecting, reporting, and responding to data breaches. A clear timeline is established for notifying relevant supervisory authorities and affected individuals.
+11. Disclosure and Data Transfers
+Collection of Personal Information:
+Ampersand will obtain your consent for sharing your personal information in several ways, such as in writing, online, through “click-through” agreements; orally, including through interactive voice response; or when your consent is part of the terms and conditions which apply to our products and services.
+Ampersand does not actively collect minors’ personal data in the provision of its services, but in instances where this may be collected, we shall require parent/ guardian representation and consent. Sensitive information may be collected. Measures such as access control and encryption have been implemented to protect the confidentiality of your information.
+​
+Internal Use:
+Ampersand and its employees may utilize some or all available personal information for legitimate business purposes and related activities within the parameters mentioned above.
+Third Parties:
+We may have to share your personal information with third parties, including third-party service providers such as our asset financing partners, sub-contractors, and sister companies. We require third parties to respect the security of your data and to treat it in accordance with applicable laws.
+Government and Law Enforcement Agencies:
+We may also share your personal information with Government agencies or other authorized Law Enforcement Agencies (LEAs) mandated under law to obtain such information for the purpose of verification of identity or for prevention, detection, investigation including but not limited to cyber incidents, the investigation and prosecution of crime, and as is required by law. We may also share information to meet our regulatory obligations.
+Transfer:
+Ampersand may transfer your personal information or other information, or data collected, stored and processed to any other entity or third party located outside the country of service, only if necessary, for legitimate business purposes for providing services to you. This may also include sharing of aggregated information with third parties contracted to Ampersand for them to understand our environment and consequently, provide you with better services. While sharing your personal information with third parties, reasonable organizational, technical and security measures shall be taken to ensure that reasonable security practices are followed by the third party and are in line with the Data Protection Principles and Regulations.
+
+
+12. Data Retention and Storage
+Personal information shared with us will be retained in line with the Local Regulations on records retention and Ampersand’s internal Records Retention Policy. For our customers, data may be retained for a minimum of 10 years after termination of contract, as per national regulations.
+We may store your information in hard copy or electronic format and keep it in storage facilities that we own and operate ourselves, or that are owned and operated by our Third parties/ service providers inside or outside the country.
+We use a combination of technical solutions, security controls and internal processes to help us protect your information and our network from unauthorized access and disclosure.
+
+
+Africa’s EV revolution has two wheels, not four
+
+
+Ampersand scales Nairobi manufacturing capacity to meet Kenya’s growing demand for e-motos
+​
+New Nairobi factory triples production capacity in Kenya, fueling the county’s transition to electric motorcycles
+Ampersand reaches 1150 bikes on the roads of Nairobi
+Expansion underscores company's commitment to cutting carbon emissions and driving clean economic prosperity across Africa
+Nairobi, 17 October 2024
+– Ampersand, Africa's leading electric vehicle (EV) energy tech company, has announced the opening of a new, larger manufacturing facility in Nairobi, tripling the company’s production capacity in Kenya. This strategic expansion enables it to meet the rapidly increasing demand for electric motorcycles in the country, where over 1,100 Ampersand e-motos are already in operation.
+The new factory spans 21,000 square metres, making it over three times larger than the previous 6,500 square metre site. This significant upgrade, coupled with the deployment of over 100 staff, will allow Ampersand to assemble up to 60 electric motorcycles per day, or 1,440 per month, as well as to continue delivering the most trusted battery swap network for Kenya's millions of commercial motorcycle riders.
+Ampersand’s sustainable EV solutions cut carbon emissions and offer significant savings to riders. Every Ampersand e-moto avoids at least 2 mt CO2e per bike per year and, on average, increases customer income by 45% annually, a vital benefit for Kenyan riders, who each support an average of 3.8 people at home.
+The enhanced Kenyan operation, combined with Ampersand’s successful model in Rwanda where it has spearheaded the adoption of electric motorcycles, lays a strong foundation for its continued expansion across East Africa. Currently, Ampersand’s fleet of heavy-duty commercial e-motos and smart, AI-optimised battery fleet covers over 4.5 million kilometres per week in Kigali and Nairobi combined. This latest scaling positions the company to meet the growing demand for electric motorcycles, not just in Kenya but across East Africa, where 100 million people depend on largely petrol motorcycles for taxi or delivery services. Ampersand aims to deploy 5 million electric motorcycles by 2033.
+Josh Whale, CEO, Ampersand, said:
+“Our new Nairobi factory is a major step forward in both scale and impact. It reflects our dedication to providing sustainable, affordable EV solutions that directly benefit riders and the environment. With this expanded capacity, we’re in a stronger position to support the electrification of Africa’s commercial motorcycle transport and to scale Ampersand’s proven business model.”
+​
+Kigali’s Big Shift to Small Electric Motorcycles Brings More Than Just Climate Benefits
+​
+​
+
+
+Ampersand and CrossBoundary Energy rev up Kenya’s e-mobility transition with solar-powered charging and batteries for e-bikes
+​
+​
+
+
+Ampersand completes $21.5 million funding in last year to electrify motorcycle transport in Africa
+​
+Additional equity investment from three investors brings annual funding total to $21.5m
+AHL Venture Partners and Everstrong Capital back Ampersand’s model with new investments, with Beyond Capital Ventures making a further investment
+Funding comes ahead of the forthcoming Series B round
+Kigali, 29 August 2024
+– Africa’s leading EV energy tech company, Ampersand, has raised further equity bringing the funding total raised in the last 12 months to USD $21.5 million, demonstrating continued investor appetite for the company’s approach to electrifying Africa’s millions of motorcycles.
+The latest investments are from AHL Venture Partners, an Africa-focused venture fund, and Everstrong Capital, an infrastructure investor constructing the Usahihi toll road between Nairobi and Mombasa. Beyond Capital Ventures has reinvested in a follow-up to its Series A equity commitment.
+These additional investments, ahead of Ampersand’s Series B, will enable the company to continue its expansion in East Africa where 100 million people a day use motorcycle taxi or delivery services, called ‘boda bodas’. The company’s electric motorcycles are 45% cheaper to run than the petrol alternatives and produce at least 75% less emissions, making them a compelling alternative.
+Josh Whale, CEO, Ampersand, said:
+“This latest funding is a testament to the strong investor confidence in our business model as we continue to scale and innovate within the African e-mobility sector. With continued urbanisation, our mission to electrify transport, cut carbon emissions and drive clean economic prosperity is more crucial than ever.
+“This additional investment will accelerate the rollout of our EV energy technology and infrastructure to the mass market, bringing us closer to our goal of deploying 5 million electric motorcycles by 2033.
+“As we look ahead to our upcoming Series B, we remain committed to reshaping how Africa moves by delivering affordable, low-carbon transport solutions that also drive green jobs and economic growth across the continent.”
+Ampersand’s heavy-duty commercial motorcycle fleet already covers 3,000,000 km per week in Kigali and Nairobi. Its AI-enabled smart battery technology allows drivers to seamlessly exchange their batteries within minutes at its network of ‘swap stations’, handling around 75,000 swaps every week.
+Sebastian McKinlay, Head of New Investments, AHL Venture Partners, commented
+:
+"Ampersand's performance shows the transformative power of innovative business models in addressing environmental challenges and economic opportunities simultaneously - a perfect example of the 'green discount' of transitioning to a low carbon economy whilst saving customers money.
+“Ampersand’s work in electrifying one of the most common forms of transportation in East Africa is proving to be a game-changer and will displace billions of dollars of fuel imports to East Africa each year.  We are pleased to be supporting Josh, Alp, and the whole team who have executed their strategy admirably, and thrilled to support Ampersand's journey to expand their operations and continue to lead the way in sustainable transportation."
+Eva Yazhari, Managing Partner, Beyond Capital Ventures, said:
+“Ampersand’s comprehensive approach to e-mobility in Africa exemplifies exactly the type of highly scalable solution Beyond Capital Ventures seeks to invest in. Among the e-mobility companies we evaluated, Ampersand stood out for its robust technology, strong market traction, and clear vision for transforming transportation networks across the continent. We view Ampersand as a climate
+and
+infrastructure play and by backing Ampersand, BCV's primary goal is to contribute to increased economic development and the growth of capital markets in the region.
+“This investment has the potential to deliver substantial environmental benefits, improve livelihoods for thousands of drivers, and demonstrate the incredible opportunity to invest in ventures led by conscious leaders in emerging markets. In addition to being a strong portfolio contributor, I believe that Ampersand’s success will attract further investment to Africa, something we care deeply about at BCV."
+Phil Dyk, Founder and Managing Partner, Everstrong Capital, said:
+“We chose to be part of Ampersand’s growth capital because we found that commercial boda boda riders wanted Ampersand’s bikes for their strength, design and battery swapping convenience — not to mention that Ampersand is an early entrant to the electric motorcycle markets in Rwanda and Kenya.”
+Capital raised from the Series A round has been used to
+ramp up electric motorcycle and battery production, expand the company’s swap station network, and continue R&D on battery technology and software.
+This latest funding round brings the total raised over the last 12 months to USD $14 million in equity and USD $7.5 million in debt.
+​
+
+
+BYD and Ampersand to collaborate on electrifying Africa’s transport system
+​
+Kigali, 19 June 2024
+– Electric motorbike development and deployment in Africa is set to get a significant boost as global high-tech company, BYD, and Africa’s leading EV energy tech company, Ampersand, sign a landmark agreement today.
+The two companies have signed a Memorandum of Understanding to collaborate on the decarbonisation of Africa’s commercial motorbike transport system.
+As its primary supplier, Ampersand will purchase BYD’s high-tech battery cells to build around 40,000 electric motorcycles by the end of 2026, with the long-term goal of electrifying a large portion of Africa’s 30 million commercial motorbikes.
+The partnership with BYD will enable Ampersand to rapidly scale its electric fleet and its charging infrastructure, which is already the largest in Rwanda and Kenya. This continued scaling will allow Ampersand to meet the increasing demand for commercial motorcycles across Africa as its cities expand and riders increase, providing a sustainable solution to support the continent’s economic growth.
+Josh Whale, CEO of Ampersand, said:
+“
+This partnership marks a major milestone for Ampersand as we continue to lead the charge in providing sustainable, cost effective, mass-market EV solutions.
+“BYD’s world-leading battery cells and manufacturing scale, combined with Ampersand’s deep customer insight and technical product knowledge will help fast-track the electrification of Africa’s commercial motorcycles.
+“Switching the millions of taxi and delivery two-wheelers to EV energy tech represents one of the world’s best value-for-money decarbonisation opportunities. At the same time, this transformation will save millions of hardworking motorcycle riders six hundred dollars each a year, driving clean economic prosperity.”
+BYD’s cutting-edge lithium iron phosphate (LFP) cells have a long lifespan, an excellent safety record and are affordable for everyday users, making them ideal for mass-market electrification.
+Sihai Zhang, BYD Company, said:
+“Ampersand’s electric motorbike technology and charging network, along with its excellent customer understanding, make the company stand out to BYD as the clear pioneer in the electrification of Africa’s transport system.
+“Electrifying the intensively used commercial motorcycles found across Africa is a logical first step to decarbonising a very large potential market of motorcycles across the Global South.”
+At the same time as decarbonising transport, electric two-wheelers clean up the air and save drivers on average 45% a year on fuel and maintenance, improving lives and livelihoods - driving entrepreneurship and social mobility.
+Alp Tilev, Ampersand Co-Founder and Chief Technical Officer, with Ampersand and BYD teams at BYD Factory
+Battery assembly line, Ampersand factory, Kigali
+Electric motorcycle production line, Ampersand factory, Kigali
+​
+
+
+PRESS RELEASE: New Zealand Foreign Affairs Minister inaugurates Ampersand E-Motorbike Battery Swap Station in Kigali, Rwanda. Copy
+New Zealand Foreign Affairs Minister inaugurates Ampersand E-Motorbike Battery Swap Station in Kigali, Rwanda
+On her recent visit to Rwanda for the Commonwealth Heads of Government Meeting, Hon. Nanaia Mahuta, New Zealand’s Minister of Foreign Affairs, officially inaugurated the 13th battery swap station for
+Ampersand
+, a Kigali-based energyand electric motorbike company. The Minister was welcomed by the Ampersand team led by Josh Whale, CEO and Founder - a citizen of New Zealand who moved to Rwanda to put Africa's first electric motorbikes on the road.
+Located in Kigali’s CBD, the station was funded by the New Zealand Government through the New Zealand Aid Programme and is one of ten stations across the city which power more than 370 e-motorbikes, and the first of a next-generation design. The battery swap stations enable drivers to replace their depleted batteries in under two minutes. This means drivers can spend more time on the road and earn more money.
+Speaking at the inauguration, Ampersand CEO Josh Whale thanked the government and community of New Zealand for supporting Ampersand to electrify Africa’s mobility industry.
+“We are very grateful to the New Zealand Government for their trust in our vision and commitment. Ampersand believes in a future where motorbike transport is cleaner, safer, and more affordable. Every new bike, and every new station added to our growing network is a stepping stone on our journey to success. It's fantastic that New Zealand sees the potential of Ampersand to create a low-carbon future in Africa,” said Josh.
+On behalf of the New Zealand Government, Minister Nanaia Mahuta said that she is proud of the work Ampersand is doing and highlighted that the company’s solution reduces the reliance on fossil fuels, which is good for the environment and creates employment opportunities. The Foreign Affairs Minister commended the impact Ampersand is having in achieving a green and sustainable future, and wished the team all the best for future ventures.
+Ampersand has built 10 battery swap stations in Kigali and three in Nairobi, Kenya. These stations perform close to 37,000 battery swaps a month, providing energy that already powers its customers over four times the length of Africa every day. Ampersand has already created hundreds of green jobs for young people.
+The swap station features a mural that depicts what Ampersand does, celebrates New Zealand’s Māori culture and picturesque landscapes, as well as some of Rwanda’s tourist attractions. The mural was painted by Masha, a Rwanda based street artist.
+About Ampersand
+Ampersand is Africa’s first and leading integrated electric motorcycle and transport energy solution. Headquartered in Kigali, Rwanda, Ampersand builds battery packs and affordable electric motorcycles that perform better than East Africa’s five million petrol taxi motorbikes, whilst costing less from day one.
+The core of Ampersand’s business is the network of battery swap stations and fleet of unique batteries Ampersand builds and operates, managed by an app and software backend.
+Since its commercial launch in 2019, Ampersand’s electric motorbikes have covered over five million kilometres, increased the daily income for moto drivers by 41%, and the company now employs 180 staff in Rwanda, Kenya, and Germany. Each Ampersand’s e-motorbike avoids up to 2.5 tons of carbon emissions annually. Learn more at ampersand.solar
+​
+
+
+CNN: African electric motorbike company, Ampersand goes for growth
+​
+While taxi motorcycles play vital role in transportation in Africa, Ampersand manufactures clean energy electric motorbikes and offer them to drivers. Headquartered in Rwanda, Ampersand builds motorbikes and batteries as well as battery swap stations distributed across in the City of Kigali. Josh Whale, the CEO of Ampersand, explains the impact of electric motorcycles such as offering savings that can double a driver’s income in addition to reducing carbon emissions by more than 75%. Ampersand aims to put about 3000 motorbikes in service by the end of 2022.
+​
+
+
+BBC: Rwanda goes electric with locally made motorbikes
+​
+​
+
+
+PRESS RELEASE - Ampersand Secures $9 Million USD debt facility from the U.S. International Development Finance Corporation (DFC) to Scale Operations
+​
+KIGALI
+—Ampersand Rwanda Ltd, Africa’s first electric motorcycle company, has just secured a $9 million loan facility from the U.S. International Development Finance Corporation (DFC) to expand its operations in Rwanda and Kenya. The deal represents DFC’s first loan for electric mobility and signifies increasing investor confidence in Africa’s rising e-mobility sector.
+Headquartered in Kigali, Rwanda, Ampersand assembles and finances electric motorcycles (‘emotos’ or ‘e-bodas’) that cost less to buy and operate, and perform better than the 5 million petrol motorcycle taxis in use across East Africa - all with up to 83% less carbon emissions. The core of Ampersand’s business is the network of battery swap stations and fleet of batteries Ampersand builds and operates. This system allows drivers to swap batteries faster than refilling a tank with petrol and shields vehicle buyers from the high upfront cost of a lithium battery pack. Since its commercial launch in May 2019, Ampersand’s team has performed over 50,000 battery swaps, powering Ampersand’s fleet of 56 drivers for over 2 million kilometers.
+DFC’s $9 Million USD loan will allow Ampersand to scale up the number of electric motorcycles on the road in Rwanda and Kenya to several thousand by the end of 2022. The loan is part of DFC’s Portfolio for Impact and Innovation (PI²) initiative and contributes to DFC’s commitment to the U.S. Energy Compact and its target to address climate change with one third of its investments by 2023.
+DFC’s facility builds on a $4 Million USD Series A round Ampersand secured earlier in 2021, which was supported by Silicon Valley investor Ecosystem Integrity Fund (EIF) and TotalEnergies. DFC’s investment also builds on early-stage support Ampersand received from USAID’s Development Innovation Ventures (DIV), Rwanda’s Green Fund and the UK Government’s Frontier Technology Livestreaming initiative, among others.
+“We’re thrilled to have DFC on board with this historic investment, which is building momentum to electrify all of East Africa’s 5 million motorcycle taxis by 2030. DFC’s support underlines the viability and investability of electric two wheelers for mass-market customers in the Global South, and the importance of this market to reaching net zero. On the eve of COP26 in Glasgow we believe more bold, fast-moving and innovative funds like PI² are urgently needed,” says
+Josh Whale, Founder and CEO of Ampersand
+
+
+“DFC is proud to support Ampersand in their important and innovative work bringing e-mobility and electric motorcycles to Rwanda and Kenya,” said DFC’s Chief Climate Officer Jake Levine. “DFC is focused on making impactful investments in developing countries that will help communities progress and grow while simultaneously building resilience and prosperity for a clean energy future -- this investment and the incredible growth that Ampersand has demonstrated in the market represents a great step in that direction.”
